@@ -1,0 +1,65 @@
+  .done{
+    text-decoration: line-through;
+    color: #ccc;
+  }
+
+  .main{
+  width: 550px;
+  text-align:center;
+  margin: 0 auto;
+  border: 2px solid;
+  font-family: sans-serif;
+
+}
+
+h1{
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 30px 0;
+  margin-top: 0;
+}
+
+  .newitem{
+    margin: 20px;
+    font-size: 20px;
+    height: 35px;
+    width: 450px;
+    margin-left: 20px;
+  }
+
+  .Gobutton{
+    margin: 20px;
+    font-size: 20px;
+    height:45px;
+    width: 50px;
+    font-family: cursive;
+
+  }
+
+.ccbutton{
+  margin: 20px;
+  height: 55px;
+  width: 200px;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+ul{
+    list-style: none;
+    font-size: 20px;
+    color: #68b0ab;
+    margin-bottom: 0;
+    margin-left: -44px;
+}
+
+li{
+  border-bottom: 2px solid #ededed;
+  padding: 10px 0;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+li span{
+  cursor: pointer;
+  position: relative;
+}
